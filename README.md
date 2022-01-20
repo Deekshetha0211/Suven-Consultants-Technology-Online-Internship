@@ -25,3 +25,5 @@ _**Tool(s) Used - Python (Google Colab)**
 The problem statement and the predictions that are to be made:
 
 1. Predict and do the handwriten digits recognition and visually represent it :bookmark:
+
+2. Support your analysis by appropriate visualizations using matplotlib and / or seaborn library.
