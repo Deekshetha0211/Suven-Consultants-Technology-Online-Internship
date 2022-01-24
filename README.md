@@ -17,6 +17,8 @@ The problem statement:
 
 5. Support your analysis by appropriate visualizations using matplotlib and / or seaborn library.
 
+Blog link: https://medium.com/@hrdeekshe/performing-analysis-of-meteorological-data-23883625a6e7
+
 ## Task-2 Recognizing Handwritten Digits with scikit-learn
 
 Using sci learn kit the visulaisation is observed :computer:
